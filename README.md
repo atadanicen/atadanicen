@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm atadan👋
+I have developed myself to know at least the limits of this technology and what it can do and apply the solution to many technologies from different fields in order to determine the most appropriate way to solve the problem in my head when the details of the problem are explained, and I am already continuing to develop it.
+
+My interest in machine learning and artificial intelligence, which started in sophomore year in the university, made me turn to the field of datascience when I realized that I could not create effective solutions without understanding data, I have been working more on machine learning and artificial intelligence in datascience. Recently, I have been trying to learn the agile methodology to meet the needs quickly and then address the needs in order of importance.
+
+and that's me! 
+
+- 🔭 I’m currently working on Developer Salary Prediction over Stack Overflow developer survey dataset.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 How to reach me: atadanicen@gmail.com
 
 <!--
 **atadanicen/atadanicen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
