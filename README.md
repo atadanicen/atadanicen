@@ -5,8 +5,6 @@ My interest in machine learning and artificial intelligence, which started in so
 
 and that's me! 
 
-- 🔭 I’m currently working on Developer Salary Prediction over Stack Overflow developer survey dataset.
-- 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me: atadanicen@gmail.com
 
 <!--
