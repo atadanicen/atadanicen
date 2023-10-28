@@ -1,11 +1,9 @@
 ### Hi there I'm atadan👋
-I have developed myself to know at least the limits of this technology and what it can do and apply the solution to many technologies from different fields in order to determine the most appropriate way to solve the problem in my head when the details of the problem are explained, and I am already continuing to develop it.
+I'm someone who thrives on pushing the boundaries of technology. I'm driven by a deep curiosity to explore the limits of what different technologies can achieve and find innovative solutions across various fields. As a perpetual learner, I'm constantly evolving my skills to tackle complex problems head-on. 
 
-My interest in artificial intelligence, which started in sophomore year in the university, made me turn to the field of datascience when I realized that I could not create effective solutions without understanding data, I have been working more on artificial intelligence in datascience. Recently, I have been trying to learn the agile methodology to meet the needs quickly and then address the needs in order of importance.
 
-and that's me! 
 
-- 📫 How to reach me: atadanicen@gmail.com
+- 📫 If you have any questions or maybe you wanna just a chit chat feel free to reach out 👉🏻  atadanicen@gmail.com
 
 <!--
 **atadanicen/atadanicen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
